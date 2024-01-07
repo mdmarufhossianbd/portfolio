@@ -133,3 +133,39 @@ nav ul > li a{
     font-weight: 700;
     line-height: 30px;
 }
+
+/* What I do Section */
+.what_i_do_section{
+    margin: 0px 230px 130px;
+    padding: 0px 0px;
+}
+.what_i_do_2nd{
+    display: flex;
+    gap: 24px;
+}
+.what_i_do_details{
+    margin: 30px 265px 0px;
+    text-align: center;
+    color: #757575;
+    font-size: 18px;
+    line-height: 30px;
+}
+.what_i_do_experience{
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+.what_i_do_experience_title{
+    padding: 25px 0px;
+    color: #181818;
+    font-size: 20px;
+    font-weight: 700;
+}
+.what_i_do_experience_details{
+    color: #757575;
+    font-size: 16px;
+    line-height: 28px;
+}
