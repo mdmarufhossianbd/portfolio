@@ -169,3 +169,40 @@ nav ul > li a{
     font-size: 16px;
     line-height: 28px;
 }
+
+/* Resume Style secton */
+
+.resume_section_child{
+    display: flex;
+    margin: 110px 230px 50px;
+}
+
+.resume_education_title{
+    padding-right: 50px;
+}
+.education_title{
+    margin-bottom: 20px;
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+.degree_title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+.institute_title{
+    color: #757575;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+.education_details{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #757575;
+    font-size: 16px;
+}
+hr{
+    margin-bottom: 30px;
+}
