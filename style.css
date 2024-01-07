@@ -58,7 +58,7 @@ nav ul > li a{
     text-decoration: none;
     color: #474747;
 }
-span{
+.logo_design{
     color: #FD6E0A;
 }
 .site_name{
@@ -104,13 +104,32 @@ span{
     margin: 150px 230px;
     border-radius: 10px;
     background: #FFF8F3;
-    padding: 130px 155px;
+    padding: 130px 180px;
 }
 .about_info{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.about_info_2{
+    text-align: center;
+    color: #757575;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
 }
 .about_details{
     align-items: center;
-    text-align: center;
     margin: 30px 0px;
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+}
+.aboout_info_details{
+    color: #474747;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
 }
